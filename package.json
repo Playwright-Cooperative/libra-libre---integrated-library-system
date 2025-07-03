@@ -1,0 +1,26 @@
+{
+  "name": "libra-libre---integrated-library-system",
+  "version": "1.0.0",
+  "description": "Libra Lite is a lightweight, open-source library interface designed for demonstration and educational purposes. Built using SQLite and sql.js, it enables users to browse and query book data directly in the browser—no server required. Libra Lite runs entirely on GitHub Pages and showcases the power of SQL + WebAssembly in client-side applications.",
+  "main": "commitlint.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Playwright-Cooperative/libra-libre---integrated-library-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Playwright-Cooperative/libra-libre---integrated-library-system/issues"
+  },
+  "homepage": "https://github.com/Playwright-Cooperative/libra-libre---integrated-library-system#readme",
+  "devDependencies": {
+    "@commitlint/config-conventional": "^19.8.1",
+    "commitlint": "^19.8.1",
+    "husky": "^9.1.7"
+  }
+}
